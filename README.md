@@ -92,7 +92,7 @@ Para visualizar os dados enviados pelo ESP32:
 
 Confira o vídeo explicativo demonstrando o funcionamento do circuito, a lógica dos LEDs e a comunicação MQTT em tempo real:
 
-**[COLOQUE O LINK DO YOUTUBE OU DRIVE AQUI]**
+**[Video youtube](https://youtu.be/P7QhwTaht58)**
 
 ---
 
